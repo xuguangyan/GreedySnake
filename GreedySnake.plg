@@ -1,0 +1,58 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: GreedySnake - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/GreedySnake.res" /d "_DEBUG" /d "_AFXDLL" "D:\编程类\工作区\VCproject\作品\GreedySnake\GreedySnake.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP257.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/GreedySnake.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\编程类\工作区\VCproject\作品\GreedySnake\GreedySnakeDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP257.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP258.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/GreedySnake.pdb" /debug /machine:I386 /out:"Debug/GreedySnake.exe" /pdbtype:sept 
+".\Debug\Box.obj"
+".\Debug\ColorBtn.obj"
+".\Debug\Common.obj"
+".\Debug\DLinList.obj"
+".\Debug\GreedySnake.obj"
+".\Debug\GreedySnakeDlg.obj"
+".\Debug\NewMapDlg.obj"
+".\Debug\SettingDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\GreedySnake.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP258.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+GreedySnakeDlg.cpp
+Linking...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP259.tmp" with contents
+[
+/nologo /o"Debug/GreedySnake.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\Box.sbr"
+".\Debug\ColorBtn.sbr"
+".\Debug\Common.sbr"
+".\Debug\DLinList.sbr"
+".\Debug\GreedySnake.sbr"
+".\Debug\GreedySnakeDlg.sbr"
+".\Debug\NewMapDlg.sbr"
+".\Debug\SettingDlg.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP259.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+GreedySnake.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

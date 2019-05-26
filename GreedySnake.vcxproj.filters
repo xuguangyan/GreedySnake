@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{c97deabf-9609-4d3d-9706-b912a9a584f8}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ffb20dec-d7e7-4421-9191-96bfc2570711}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{d6d43b64-9b42-4d05-b97a-45a5740e1665}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorBtn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DLinList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GreedySnake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GreedySnakeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewMapDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GreedySnake.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorBtn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DLinList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GreedySnake.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GreedySnakeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewMapDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\body.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\body09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\brick.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\dasheng.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\food09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\grass.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\GreedySnake.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ground09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\head09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rear.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rear01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rear02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rear03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rear033.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\SNAKE.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wall09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\GreedySnake.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>
